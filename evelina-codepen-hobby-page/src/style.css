@@ -1,0 +1,23 @@
+html{
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+
+body{
+  padding:20px;
+}
+
+.container{
+  display:flex;
+  justify-content:space-evenly;
+}
+
+img {
+  width: auto;
+  height: 200px;
+}
+
+#hooks{
+  display:block;
+  margin:auto;
+}
